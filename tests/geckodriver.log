@@ -103,3 +103,880 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1518314940366	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
 1518314940369	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
 1518314940372	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518315058455	Marionette	INFO	Ceased listening
+1518315835293	geckodriver	INFO	geckodriver 0.19.1
+1518315835301	geckodriver	INFO	Listening on 127.0.0.1:57115
+1518315835405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.j9d0eaPZnLuA"
+1518315837638	Marionette	INFO	Listening on port 57122
+1518315837720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518315837981	Marionette	DEBUG	loaded listener.js
+1518315838020	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:23:58.070 plugin-container[20172:6642191] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518315838267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518315838267	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518315838446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315838857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315838866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315838869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315838871	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315838982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1518315839097	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518315839219	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518315839518	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518315839518	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518315839619	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518315839662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518315844478	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518315844520	Marionette	DEBUG	Received DOM event "beforeunload" for "https://web.whatsapp.com/"
+1518315844884	Marionette	DEBUG	Received DOM event "pagehide" for "https://web.whatsapp.com/"
+1518315844886	Marionette	DEBUG	Received DOM event "unload" for "https://web.whatsapp.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1518315845170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315845252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315845254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315845261	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315845263	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315845266	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518315847348	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518315847826	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518315847827	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518315848147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/features/"
+1518315848163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1518315848406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315848409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315848412	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315848415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315848417	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/features/"
+1518315848521	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/features/"
+1518315848849	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/features/"
+1518315848849	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/features/"
+1518315849022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315849049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518315849115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315849119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315849121	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315849123	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315849129	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518315851213	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518315851508	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518315851508	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518315851686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/download/"
+1518315851690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1518315851767	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/download/"
+1518315851791	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/download/"
+1518315851947	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/download/"
+1518315851949	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/download/"
+1518315852092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315852180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315852181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315852183	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315852184	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315852186	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518315854355	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518315854787	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518315854787	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518315854938	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518315855095	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/security/"
+1518315855101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/security/"
+1518315855108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:blank"
+1518315855111	Marionette	DEBUG	Received DOM event "pageshow" for "about:blank"
+1518315855117	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/security/"
+1518315855261	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/security/"
+1518315855313	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/security/"
+1518315855449	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/security/"
+1518315855449	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/security/"
+1518315855619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315855626	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1518315855788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315855791	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315855796	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315855797	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315855799	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518315857886	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518315858065	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518315858065	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518315858644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://faq.whatsapp.com/"
+1518315858745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1518315859332	Marionette	DEBUG	Received DOM event "pageshow" for "https://faq.whatsapp.com/"
+1518315859348	Marionette	DEBUG	Received DOM event "beforeunload" for "https://faq.whatsapp.com/"
+1518315859639	Marionette	DEBUG	Received DOM event "pagehide" for "https://faq.whatsapp.com/"
+1518315859642	Marionette	DEBUG	Received DOM event "unload" for "https://faq.whatsapp.com/"
+1518315859764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315859873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315859876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315859882	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315859885	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315859888	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518315869161	Marionette	INFO	Ceased listening
+1518315918897	geckodriver	INFO	geckodriver 0.19.1
+1518315918909	geckodriver	INFO	Listening on 127.0.0.1:57235
+1518315919003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.a4NAeeOemvcN"
+1518315921360	Marionette	INFO	Listening on port 57242
+1518315921442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518315921668	Marionette	DEBUG	loaded listener.js
+1518315921699	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:25:21.760 plugin-container[20196:6644691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7027, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518315922094	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518315922095	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518315922468	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315922658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315922660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315922663	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315922665	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315922668	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518315922900	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518315923266	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518315923267	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518315923373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518315923396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518315927506	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518315969422	geckodriver	INFO	geckodriver 0.19.1
+1518315969428	geckodriver	INFO	Listening on 127.0.0.1:57327
+1518315969527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.NVmTC7mcwVJH"
+1518315971913	Marionette	INFO	Listening on port 57334
+1518315971984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518315972234	Marionette	DEBUG	loaded listener.js
+1518315972308	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:26:12.383 plugin-container[20209:6646285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518315972777	Marionette	INFO	Ceased listening
+1518315972801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518315972802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518315973169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518315973407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315973413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315973416	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518315973419	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518315973422	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316077279	geckodriver	INFO	geckodriver 0.19.1
+1518316077293	geckodriver	INFO	Listening on 127.0.0.1:57410
+1518316077386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.4gUun4MzxnZU"
+1518316079509	Marionette	INFO	Listening on port 57417
+1518316079615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316079880	Marionette	DEBUG	loaded listener.js
+1518316079936	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:27:59.988 plugin-container[20229:6648030] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316080176	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316080176	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316080573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316080828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316080835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316080839	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316080843	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316080847	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316081156	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316081454	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316081454	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316081555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316081613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518316086901	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316094281	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316097454	Marionette	INFO	Ceased listening
+1518316104632	geckodriver	INFO	geckodriver 0.19.1
+1518316104641	geckodriver	INFO	Listening on 127.0.0.1:57500
+1518316104732	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.UnW3WUvfZdW1"
+1518316106813	Marionette	INFO	Listening on port 57507
+1518316106926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316107108	Marionette	DEBUG	loaded listener.js
+1518316107140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:28:27.213 plugin-container[20241:6650003] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7127, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316107376	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316107376	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316107717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316107929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316107936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316107940	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316107947	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316107950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316108194	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316108482	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316108482	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316108610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316108613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518316113218	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316117946	Marionette	INFO	Ceased listening
+1518316242150	geckodriver	INFO	geckodriver 0.19.1
+1518316242157	geckodriver	INFO	Listening on 127.0.0.1:57582
+1518316242240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.uDsO6g6VzgZc"
+1518316244343	Marionette	INFO	Listening on port 57589
+1518316244445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316244629	Marionette	DEBUG	loaded listener.js
+1518316244663	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:30:44.722 plugin-container[20264:6654659] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316245124	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316245125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316245459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316245610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316245626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316245629	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316245636	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316245750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1518316246472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316246596	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316246867	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316246868	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316246955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316247002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518316252011	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316272295	Marionette	INFO	Ceased listening
+1518316362035	geckodriver	INFO	geckodriver 0.19.1
+1518316362044	geckodriver	INFO	Listening on 127.0.0.1:57704
+1518316362134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.WWaVy1DzZlaV"
+1518316364460	Marionette	INFO	Listening on port 57711
+1518316364576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316364801	Marionette	DEBUG	loaded listener.js
+1518316364831	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:32:44.879 plugin-container[20285:6660916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316365319	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316365319	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316365650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316365881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316365886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316365891	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316365895	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316365897	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316405042	geckodriver	INFO	geckodriver 0.19.1
+1518316405050	geckodriver	INFO	Listening on 127.0.0.1:57781
+1518316405134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.T1ikCIgVqqvN"
+1518316407501	Marionette	INFO	Listening on port 57788
+1518316407588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316407901	Marionette	DEBUG	loaded listener.js
+1518316407947	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:33:28.033 plugin-container[20303:6662206] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316408180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316408180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316408720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316409015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316409026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316409033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316409040	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316409045	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316409358	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316409643	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316409644	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316409805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316409842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316409892	Marionette	INFO	Ceased listening
+1518316414560	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316444282	Marionette	INFO	Ceased listening
+1518316452535	geckodriver	INFO	geckodriver 0.19.1
+1518316452544	geckodriver	INFO	Listening on 127.0.0.1:57871
+1518316452641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.emKEZf3lB4ZF"
+1518316454662	Marionette	INFO	Listening on port 57878
+1518316454751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316454978	Marionette	DEBUG	loaded listener.js
+1518316455010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:34:15.058 plugin-container[20323:6664368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316455385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316455385	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316455740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316455934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316455942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316455948	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316455950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316455958	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316456168	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316456175	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316456182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1518316456458	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316456459	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316456535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316456575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518316460874	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316468674	Marionette	INFO	Ceased listening
+1518316496457	geckodriver	INFO	geckodriver 0.19.1
+1518316496465	geckodriver	INFO	Listening on 127.0.0.1:57959
+1518316496553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.KzwHbdmWdxSp"
+1518316498518	Marionette	INFO	Listening on port 57966
+1518316498592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316498842	Marionette	DEBUG	loaded listener.js
+1518316498870	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:34:58.912 plugin-container[20339:6667180] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316499356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316499356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316499688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316499874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316499885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316499888	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316499894	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316499900	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316500177	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316500443	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316500443	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316500548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316500590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518316505192	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316510831	Marionette	INFO	Ceased listening
+1518316806324	geckodriver	INFO	geckodriver 0.19.1
+1518316806334	geckodriver	INFO	Listening on 127.0.0.1:58066
+1518316806429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.pcUC1rJB1q4D"
+1518316808675	Marionette	INFO	Listening on port 58073
+1518316808778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316808991	Marionette	DEBUG	loaded listener.js
+1518316809025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:40:09.084 plugin-container[20366:6676384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316809417	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316809418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316809751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316809977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316809987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316809989	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316809991	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316809994	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316821934	geckodriver	INFO	geckodriver 0.19.1
+1518316821948	geckodriver	INFO	Listening on 127.0.0.1:58140
+1518316823051	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.IBl8WP8GrqgJ"
+1518316825235	Marionette	INFO	Listening on port 58149
+1518316825307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316825532	Marionette	DEBUG	loaded listener.js
+1518316825580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:40:25.619 plugin-container[20374:6676954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316826171	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316826172	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316826331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316826742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316826763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316826765	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316826768	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316826773	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316841419	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316843352	Marionette	INFO	Ceased listening
+1518316846847	geckodriver	INFO	geckodriver 0.19.1
+1518316846853	geckodriver	INFO	Listening on 127.0.0.1:58213
+1518316847944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.e65De0GgeWkg"
+1518316849945	Marionette	INFO	Listening on port 58222
+1518316850037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316850228	Marionette	DEBUG	loaded listener.js
+1518316850258	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:40:50.302 plugin-container[20389:6677703] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316850661	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316850663	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316850987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316851145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316851150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316851152	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316851154	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316851158	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518316851381	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316851649	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316851649	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316851755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316851800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518316856193	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518316892194	geckodriver	INFO	geckodriver 0.19.1
+1518316892201	geckodriver	INFO	Listening on 127.0.0.1:58306
+1518316892285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.cKN1Q4dB7JWN"
+1518316894803	Marionette	INFO	Listening on port 58313
+1518316894884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518316895104	Marionette	DEBUG	loaded listener.js
+1518316895134	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 18:41:35.186 plugin-container[20403:6680435] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518316895396	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518316895397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518316895721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518316895954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316895969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316895975	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518316895981	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518316895986	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518316896507	Marionette	INFO	Ceased listening
+1518316898265	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518316898538	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518316898538	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518316898622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518316898667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518316903339	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518319085714	geckodriver	INFO	geckodriver 0.19.1
+1518319085719	geckodriver	INFO	Listening on 127.0.0.1:58430
+1518319085827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.as0biZ2YEm1b"
+1518319088012	Marionette	INFO	Listening on port 58437
+1518319088123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518319088421	Marionette	DEBUG	loaded listener.js
+2018-02-10 19:18:08.547 plugin-container[20439:6687805] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518319088580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518319088818	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518319088820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518319089224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319089439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319089450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319089455	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319089457	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319089462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518319091692	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518319091986	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518319091986	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518319092070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518319092110	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518319097010	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+2018-02-10 19:18:57.920 firefox-bin[20402:6680248] *** WARNING: Textured window <ToolbarWindow: 0x116707080> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+1518319357674	geckodriver	INFO	geckodriver 0.19.1
+1518319357681	geckodriver	INFO	Listening on 127.0.0.1:58600
+1518319357823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.6pBw7vEI79dp"
+1518319360519	Marionette	INFO	Listening on port 58607
+1518319360599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518319360853	Marionette	DEBUG	loaded listener.js
+1518319360884	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:22:40.960 plugin-container[20468:6694904] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518319361395	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518319361396	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518319361877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319362171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319362185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319362187	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319362192	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319362197	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518319384417	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518319385902	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518319387368	Marionette	INFO	Ceased listening
+1518319391089	geckodriver	INFO	geckodriver 0.19.1
+1518319391096	geckodriver	INFO	Listening on 127.0.0.1:58690
+1518319391192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.J0FFMvwfQ76h"
+1518319393221	Marionette	INFO	Listening on port 58697
+1518319393309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518319393531	Marionette	DEBUG	loaded listener.js
+1518319393563	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:23:13.611 plugin-container[20480:6696060] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518319394037	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518319394037	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518319394371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319394537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319394555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319394557	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319394559	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319394562	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518319495057	geckodriver	INFO	geckodriver 0.19.1
+1518319495063	geckodriver	INFO	Listening on 127.0.0.1:58767
+1518319495143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.UVVZx8Z5PJBe"
+1518319497431	Marionette	INFO	Listening on port 58774
+1518319497506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518319497751	Marionette	DEBUG	loaded listener.js
+1518319497826	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:24:57.867 plugin-container[20496:6697514] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518319498295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518319498295	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518319498629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319498830	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319498839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319498841	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319498844	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319498847	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518319721905	geckodriver	INFO	geckodriver 0.19.1
+1518319721914	geckodriver	INFO	Listening on 127.0.0.1:58851
+1518319722076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.XinrAABo8REo"
+1518319725770	Marionette	INFO	Listening on port 58858
+1518319725869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518319726210	Marionette	DEBUG	loaded listener.js
+1518319726311	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:28:46.367 plugin-container[20537:6702871] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518319726726	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518319726726	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518319727104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319727392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319727433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319727440	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319727445	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319727453	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518319781333	geckodriver	INFO	geckodriver 0.19.1
+1518319781349	geckodriver	INFO	Listening on 127.0.0.1:58956
+1518319782449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.5r02fatQTP1c"
+1518319785772	Marionette	INFO	Listening on port 58965
+1518319785981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518319786390	Marionette	DEBUG	loaded listener.js
+1518319786502	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:29:46.593 plugin-container[20560:6704208] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518319786931	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518319786932	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518319787686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319788277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319788292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319788298	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319788305	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319788317	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518319789510	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518319789922	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518319789924	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518319790063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518319790168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518319799216	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518319799275	Marionette	DEBUG	Received DOM event "beforeunload" for "https://web.whatsapp.com/"
+1518319799465	Marionette	DEBUG	Received DOM event "pagehide" for "https://web.whatsapp.com/"
+1518319799468	Marionette	DEBUG	Received DOM event "unload" for "https://web.whatsapp.com/"
+1518319799956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319800087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319800089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319800092	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319800100	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319800105	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518319906774	geckodriver	INFO	geckodriver 0.19.1
+1518319906791	geckodriver	INFO	Listening on 127.0.0.1:59086
+1518319907016	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.fTOTC4wcsubo"
+1518319910590	Marionette	INFO	Listening on port 59093
+1518319910716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518319911054	Marionette	DEBUG	loaded listener.js
+1518319911181	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:31:51.257 plugin-container[20583:6707657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518319911445	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518319911445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518319911794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518319912297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319912309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319912333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518319912346	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518319912352	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1518320037809	geckodriver	INFO	geckodriver 0.19.1
+1518320037832	geckodriver	INFO	Listening on 127.0.0.1:59259
+1518320038949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.iFR5Sgk1EYvL"
+1518320043667	Marionette	INFO	Listening on port 59268
+1518320043776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518320044239	Marionette	DEBUG	loaded listener.js
+1518320044376	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:34:04.452 plugin-container[20616:6711690] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518320044887	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518320044887	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518320045184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320046192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320046197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320046203	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320046208	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320046215	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320047552	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320047828	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320047828	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320047971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518320047973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518320059423	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518320059455	Marionette	DEBUG	Received DOM event "beforeunload" for "https://web.whatsapp.com/"
+1518320059748	Marionette	DEBUG	Received DOM event "pagehide" for "https://web.whatsapp.com/"
+1518320059750	Marionette	DEBUG	Received DOM event "unload" for "https://web.whatsapp.com/"
+1518320059957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320060088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320060092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320060096	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320060098	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320060101	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320061228	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320061376	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320061377	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320061893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/features/"
+1518320062131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1518320062368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320062374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320062380	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320062383	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320062388	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/features/"
+1518320062577	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/features/"
+1518320062583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1518320062913	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/features/"
+1518320062913	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/features/"
+1518320063233	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320063271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1518320063343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320063355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320063363	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320063365	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320063369	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320064610	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320065169	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320065170	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320065489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/download/"
+1518320065600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1518320065626	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/download/"
+1518320065672	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/download/"
+1518320066200	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/download/"
+1518320066202	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/download/"
+1518320066556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320066753	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320066758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320066763	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320066769	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320066776	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320068116	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320068309	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320068310	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320068932	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/security/"
+1518320068948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/security/"
+1518320068950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1518320068993	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:blank"
+1518320068996	Marionette	DEBUG	Received DOM event "pageshow" for "about:blank"
+1518320068998	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/security/"
+1518320069070	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/security/"
+1518320069437	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/security/"
+1518320069438	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/security/"
+1518320069635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320069726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320069734	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320069738	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320069739	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320069741	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320070918	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320071516	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320071517	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320072457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://faq.whatsapp.com/"
+1518320072491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1518320073681	Marionette	DEBUG	Received DOM event "pageshow" for "https://faq.whatsapp.com/"
+1518320073716	Marionette	DEBUG	Received DOM event "beforeunload" for "https://faq.whatsapp.com/"
+1518320074008	Marionette	DEBUG	Received DOM event "pagehide" for "https://faq.whatsapp.com/"
+1518320074013	Marionette	DEBUG	Received DOM event "unload" for "https://faq.whatsapp.com/"
+1518320074302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320074464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320074467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320074470	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320074482	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320074484	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1518320217804	geckodriver	INFO	geckodriver 0.19.1
+1518320217841	geckodriver	INFO	Listening on 127.0.0.1:59423
+1518320218205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.TEIrcsoZikMk"
+1518320222955	Marionette	INFO	Listening on port 59430
+1518320223095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518320223460	Marionette	DEBUG	loaded listener.js
+2018-02-10 19:37:03.621 plugin-container[20643:6717093] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518320223659	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518320223923	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518320223924	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518320224541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320225466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320225471	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320225476	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320225479	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320225483	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320226756	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320227164	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320227166	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320227480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518320227486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518320243439	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518320337440	geckodriver	INFO	geckodriver 0.19.1
+1518320337453	geckodriver	INFO	Listening on 127.0.0.1:59570
+1518320337635	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.fqNvHJK5i3nt"
+1518320343261	Marionette	INFO	Listening on port 59577
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/highlighter32, type hideBoxModel failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+exports.getHighlighterUtils/exported.unhighlight<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox-highlighter-utils.js:285:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+TaskImpl@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:273:3
+asyncFunction@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:247:14
+unhighlightDomNode/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/webconsole/console-output.js:3244:14
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:851:9
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1214:5
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/fronts/inspector.js:963:5
+destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/toolbox.js:2202:13
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+1518320343539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518320344547	Marionette	DEBUG	loaded listener.js
+2018-02-10 19:39:04.954 plugin-container[20672:6722352] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518320345017	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518320345375	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518320345376	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518320345508	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518320346357	Marionette	INFO	Ceased listening
+1518320346567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518320347137	Marionette	INFO	Ceased listening
+1518320347142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320347154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320347163	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320347171	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320347178	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518320348483	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518320349748	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518320350801	Marionette	INFO	Ceased listening
+1518320399304	geckodriver	INFO	geckodriver 0.19.1
+1518320399309	geckodriver	INFO	Listening on 127.0.0.1:59756
+1518320399405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.qv1mrJ4SobtW"
+1518320401692	Marionette	INFO	Listening on port 59764
+1518320401771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518320402011	Marionette	DEBUG	loaded listener.js
+1518320402080	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:40:02.122 plugin-container[20684:6725240] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518320402481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518320402482	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518320402769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320403133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320403149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320403155	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320403157	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320403160	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320406371	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320406782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320406782	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320406874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518320406901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518320413199	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518320422247	Marionette	DEBUG	Received DOM event "beforeunload" for "https://web.whatsapp.com/"
+1518320422533	Marionette	DEBUG	Received DOM event "pagehide" for "https://web.whatsapp.com/"
+1518320422535	Marionette	DEBUG	Received DOM event "unload" for "https://web.whatsapp.com/"
+1518320422708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320422822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320422828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320422831	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320422835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320422836	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320447354	geckodriver	INFO	geckodriver 0.19.1
+1518320447361	geckodriver	INFO	Listening on 127.0.0.1:59855
+1518320447452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/xy/vrkv4r9j3k5bp3h606xpv1wm0000gn/T/rust_mozprofile.9XvUkR1WB3dK"
+1518320449994	Marionette	INFO	Listening on port 59862
+1518320450142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518320450404	Marionette	DEBUG	loaded listener.js
+1518320450498	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-02-10 19:40:50.574 plugin-container[20696:6727326] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518320450986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518320450986	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518320451349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320451603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320451636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320451641	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320451645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320451650	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+1518320454906	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.whatsapp.com/"
+1518320455317	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.whatsapp.com/"
+1518320455318	Marionette	DEBUG	Received DOM event "unload" for "https://www.whatsapp.com/"
+1518320455449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1518320455492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1518320462005	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1518320471085	Marionette	DEBUG	Received DOM event "beforeunload" for "https://web.whatsapp.com/"
+1518320471462	Marionette	DEBUG	Received DOM event "pagehide" for "https://web.whatsapp.com/"
+1518320471465	Marionette	DEBUG	Received DOM event "unload" for "https://web.whatsapp.com/"
+1518320471768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/"
+1518320471912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320471915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320471920	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_edge.js"
+1518320471923	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/img/v4/animation/security/security_localized.html?v=9dd20e92a&l=en"
+1518320471925	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.whatsapp.com/"
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518320639122	Marionette	INFO	Ceased listening
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518321166039	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518321168038	Marionette	INFO	Ceased listening
+JavaScript warning: https://code.jquery.com/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518324510095	Marionette	INFO	Ceased listening
