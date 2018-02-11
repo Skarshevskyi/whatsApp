@@ -1,3 +1,4 @@
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 import time
 
@@ -7,18 +8,29 @@ class MainPageElements():
         self.driver = driver
 
     def mainPageLogo(self):
-        logo = self.driver.find_element(By.CLASS_NAME, 'page-header__logo')
-        logo.click()
+        try:
+            logo = self.driver.find_element(By.CLASS_NAME, 'page-header__logo')
+            logo.click()
+            print("WhatsApp Logo Found" + "\n")
+        except NoSuchElementException:
+            print("element Not found")
+            return False
+        return True
 
     def buttons(self):
         buttons_list = self.driver.find_elements(By.XPATH, "//ul[@class='sitenav']/li")
         for button in range(len(buttons_list)):
             buttons_list = self.driver.find_elements(By.XPATH, "//ul[@class='sitenav']/li")
             buttons_list[button].click()
+
+
+
             time.sleep(3)
             if len(self.driver.find_elements(By.XPATH, "//ul[@class='sitenav']")) < 1:
-                print("Goind back " + "\n")
+                print("Going back " + "\n")
                 self.driver.back()
+
+
 
     def whatsAppWeb(self):
         whatsapp_web = self.driver.find_element(By.XPATH, "//li[contains(text(),'Open')]")

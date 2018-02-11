@@ -13,8 +13,9 @@ class MainPage(unittest.TestCase):
 
 
 # -------test
+        mp.mainPageLogo()
         mp.buttons()
-#         mp.buttons()
+
 # if __name__ == '__main__':
 #     MainPage().test_header_buttons()
 
